@@ -1,0 +1,16 @@
+{
+  "name": "react-chat-room",
+  "version": "1.0.0",
+  "description": "A simple chat room made using react, nodejs and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Arshad <email@aliarshad.info>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.3",
+    "socket.io": "~1.3.7",
+    "http": "0.0.0"
+  }
+}

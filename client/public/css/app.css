@@ -1,0 +1,24 @@
+.chatBody
+{
+	background: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 300px;
+    overflow-y:scroll; 
+}
+
+.UsersContainer
+{
+	overflow-y:scroll; 
+	background: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 300px;	
+}
+
+.submitBox
+{
+	margin-top: 10px;
+}

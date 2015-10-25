@@ -1,0 +1,25 @@
+{
+  "name": "react-chat-room",
+  "authors": [
+    "Ali Arshad <email@aliarshad.info>"
+  ],
+  "description": "A simple chat room made using react, nodejs and socket.io",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "react": "~0.14.0",
+    "socket.io.client": "~1.3.5"
+  }
+}
