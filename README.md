@@ -1,4 +1,7 @@
 # react-chat-room
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-chat-room.svg)](https://greenkeeper.io/)
+
 A simple chat room made using react, nodejs and socket.io
 ##Installation##
 
